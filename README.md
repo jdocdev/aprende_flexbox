@@ -1,2 +1,5 @@
 # aprende_flexbox
- Material para el video aprende flexbox en 10 minutos
+
+ Si encuentras este material por casualidad te invito a buscar mi canal de YouTube @juandavid_dev y mira el video aprende css flexbox en 10 minutos.
+
+ Saludos.
